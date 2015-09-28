@@ -1,0 +1,92 @@
+Operation Flashpoint: Cold War Crisis
+Operation Flashpoint: Cold War Crisis, sometimes shortened to Operation Flashpoint (OFP), is a tactical shooter and battlefield simulator video game developed by Bohemia Interactive Studio and published by Codemasters.
+
+
+Overview
+The game is considered to be a spiritual successor to Gravon: Real Virtuality. The game uses the same engine, Real Virtuality, as the military simulator VBS1. It was released on June 22, 2001 in Europe and August 30, 2001 in North America. Set on a group of fictitious islands in 1985, Operation Flashpoint puts the player on one of three sides in a hypothetical conflict between American and Soviet forces. The Resistance is the third playable faction. Two expansion packs were released; Gold Upgrade, which included Red Hammer, a campaign from the Soviet perspective, and Resistance, which introduced various new features and improved graphics and sound effects. An Xbox port was released in 2005 under the title Operation Flashpoint: Elite. Operation Flashpoint was praised for its attention to realistic combat.
+In 2006, Bohemia Interactive released a sequel called ARMA: Armed Assault. It is based on an improved Flashpoint engine and it was released under the title ArmA Combat Operations in the United States on May 4, 2007. ArmA: Armed Assault's successor ARMA 2 was released on June 19, 2009.
+A game titled Operation Flashpoint: Dragon Rising was released in October 2009 by Codemasters. This game was not developed by Bohemia Interactive, who had reserved the exclusive right to develop sequels to the original Operation Flashpoint, and released a statement that "it is not right to promote this game as the ‘official sequel'."
+In June 2011, Bohemia Interactive re-released Operation Flashpoint as ARMA: Cold War Assault, as Codemasters retain the rights to the 'Operation Flashpoint' trademark. Owners of Operation Flashpoint: Cold War Crisis and the Game of the Year Edition may download and install the latest patch for free, and the game is available for purchase via a number of digital distribution channels. This release does not include the Red Hammer expansion, which was developed by Codemasters and not Bohemia Interactive Studio. As of June 23, 2011 the current version of the game is 1.99.
+
+
+Gameplay
+Operation Flashpoint‍ '​s gameplay varies significantly depending on the player's role, but the game is best described as a tactical shooter with significant vehicle elements and minor real-time tactics elements. OFP‍ '​s gameplay is largely team oriented and the player spends much of the game with a squad of up to 11 AI controlled members, either as a member of the squad or as its leader. On-foot gameplay and the vehicle elements are blended seamlessly and the player can get into any available vehicle at any time, orders and mission conditions permitting. Whether on foot or in a vehicle the player can view the action from both first and third-person views, as well as an additional 'command view' available to squad leaders which gives the player a limited birds-eye view of the surrounding area. At the start of each mission the player is presented with a briefing explaining the situation, describing the player's goals in the mission and, often, providing further information in the form of notes. Once in-game the player is provided with a map, compass, watch, and a notebook. Depending on the mission the player may be required to participate in and complete a variety of tasks, from simply driving a truck or guarding bases to attacking or defending various objectives, patrols, reconnaissance and sabotage behind enemy lines, air support, or any combination of these and more.
+When the player is given command of a squad of NPCs, the game becomes more strategy oriented. As a leader the player is responsible for guiding the squad to its objectives and is able to issue a wide variety of orders to men under their command, such as movement orders, designation of priority targets, formation orders and various other tactical instructions governing how they should behave such as holding fire or attacking only select targets.
+
+
+Equipment
+Operation Flashpoint features a wide variety of Cold War-era equipment, all of which can be used by the player, depending on availability in any given mission. Available firearms range from standard-issue military assault rifles such as the M16A2 and the AK-74, machine guns, and more specialized weaponry such as sniper rifles and suppressed submachine guns, all of which have iron sights or telescopic sights that the player can use to aim.
+Available vehicles include wheeled vehicles (such as jeeps and trucks), patrol boats, tanks and APCs, helicopters and even fixed-wing aircraft such as the A-10 Thunderbolt II. If a vehicle is accessible to the player, they can take the position of driver or simply ride in the vehicle as a passenger. Many vehicles, such as tanks, require a crew of at least a driver and a gunner to be used effectively. All vehicles have accurately modeled 3D interiors.
+Operation Flashpoint pioneered the use of realistic vehicle and aircraft combat in FPS games. While Operation Flashpoint does not provide the same level of vehicle realism as a dedicated simulator like Steel Beasts, or Falcon 4.0, it is nevertheless notable because it does not only simulate aircraft, tank and infantry combat with consistently high levels of realism, but also accurately simulates the complex relationships between these elements in warfare.
+
+
+Multiplayer
+After the termination of Gamespy master server (July 2014) searching servers for multiplayer is possible through the application "OFP-Monitor" (ArmA:CWA Server monitoring tool from Poweruser).
+With its built in mission editing features, the game engine does not limit the gameplay to any specific mode. Instead, the choice of mission type is left to the mission author. Most commonly implemented game modes include:
+Deathmatch - In which the players spawn in an arena and fight each other with a variety of weapons and vehicles found in the map, the player with the most kills at the end of the round wins.
+Team Deathmatch - A game mode similar to deathmatch, in team deathmatch players join one of two teams and must kill players of the opposing team to earn points.
+Capture The Flag - In Capture The Flag, players must steal the flag and take it to a designated location, while preventing opposing players from doing the same. This mode may be team based, or free for all with no alliances.
+Domination - In Domination, one or more objective is marked with a flagpost. The two teams must war for control of the location. Whichever team holds the objective for the longest amount of time gains the most points and wins the round.
+Demolition - One team must protect an objective from the other team, which must destroy the objective. Whichever team prevails in their goal wins the round.
+Cooperative - In which one or more teams of allied human players work cooperatively to accomplish a variety of objectives.
+Operation Flashpoint also includes an in-game mission editor which can be used to create anything from single missions to entire campaigns.
+
+
+Synopsis
+
+
+Setting
+Unlike most first-person shooters, in which a dozen or more separate, self-contained 'maps' typically make up the game world, the game world in Operation Flashpoint consists of large fictitious islands. Each island is at least a dozen square kilometers in size, and is surrounded on all sides by ocean. This is essentially the same concept, but on a much larger scale and using oceans, rather than what should be surmountable barriers (such as walls or cliffs), to stop the player from leaving the area.
+The game takes place on three different islands: The island-states of Everon and Malden (the latter is a home of American military forces), and later in the game, on the barren Russian island of Kolgujev which is the staging point for the renegade Russian forces invading Everon and Malden.
+
+
+Plot
+The year is 1985, and Mikhail Gorbachev has come to power in the Soviet Union. While his Glasnost and Perestroika reforms are welcomed by western governments, there are communist hardliners in his own government that are unsympathetic to his cause and are ready to do anything to stop these reforms.
+Aleksei Guba, a renegade general, is determined to bring down Gorbachev and make himself the next leader of the Soviet Union. Guba commands an army on the island base of Kolgujev. Guba invades nearby Everon, crushing the militia force there, and secretly plans to take the war to the Americans.
+The NATO presence on Malden, under the command of the American Colonel Blake, moves in to investigate the loss of contact with Everon, and reports an invasion by an 'unknown hostile force'. When a helicopter of troops sent to investigate doesn't return, Blake orders a full-scale invasion of Everon, not knowing about the Soviets. Most of the soldiers sent to Everon are the recruits who are about to be sent home after the finish of their duty.
+Though the NATO forces manage to take control a portion of the island, the Soviets eventually counterattack, causing heavy losses to the American forces and forcing their hasty retreat back to U.S.-controlled Malden. The Soviets don't only reclaim Everon but push onto Malden as well which brings the Americans on the edge of defeat. Blake receives an ultimatum from Guba but at the same time he is informed by Washington that a full carrier group is on route at flank speed to lend assistance. Time is of the essence as both the U.S. and Moscow deny that hostilities have broken out on the islands to prevent panic but at the same time the USSR begins a full-scale mobilization, allegedly as a military exercise. General Guba is in possession of a nuclear-tipped SCUD aimed at Malden and the American forces must prevent the missile launch from happening to avoid the beginning of World War III.
+During the campaign players take the roles of one of four characters:
+David Armstrong - A determined Corporal in the United States Army who is training on Malden when the fighting breaks out, he lost his squad on Everon after a botched retreat attempt. Due to his performance, Blake promotes him to Lieutenant and assigns him to frontline combat, spearheading NATO advances.
+Robert Hammer - An inexperienced tank commander who has been called into service due to a shortage of tank crews. He is eventually promoted to platoon commander.
+Sam Nichols - A Black Hawk pilot who is called on to fly helicopter gunships, and eventually an A-10 Thunderbolt.
+James Gastovski - A retired U.S. Army Special Forces officer, Gastovski is called out of retirement to carry out sabotage and scouting missions. He is also a huge fan of the James Bond movies.
+
+
+Reception
+Operation Flashpoint has won critical acclaim for its realism of simulating military conflict situations on PC, even to the extent where the game's technology has been adapted for real soldiers to use as the special combat training application VBS1.
+Partial listing:
+PC ZONE Classic Award
+IGN Editors Choice Award
+Gamespy: Best of 2001 (PC Action)
+Computer Gaming World's Editors Choice Award
+The Adrenaline Vault: Seal of Excellence Award
+ECTS winner
+The Wargamer: Award of Excellence
+Gamestar.de Award
+PC Gamer Awards
+COMBATSIM.COM: Best Integrated Battlefield Simulation 2001
+
+
+Expansions and sequels
+
+
+Expansions
+An expansion Red Hammer, which was developed by Codemasters, depicts the same conflict as the OFP:Cold War Crisis, but places the player in the role of a Russian soldier, Dmitri Lukin, rather than an American soldier. During the course of the campaign, Lukin, who is one of the few soldiers stationed on Kolgujev with previous combat experience, switches from his steadfast fight against American forces on Everon and Malden to joining the resistance fighters on Everon battling his own countrymen in order to pave the way for an American take-over of the island. He is also tasked to kill or capture the last officers still loyal to general Guba. There are a few new vehicles added, including the AH-64 Apache, Bell OH-58 Kiowa, BMP-2, BRDM and M2A2 Bradley. The save game system was altered significantly, making reverting to a previous level impossible. Lukin had been a Spetsnaz in Afghanistan but was demoted to Private for not obeying the orders and shipped to the regular army for insubordination. During the course of the Red Hammer campaign he is put in command of a squad, promoted to Sergeant, drives tanks, flies helicopters and eventually gets promoted to Lieutenant and assigned back to Spetsnaz. He is sent to kill one of the resistance leaders and surprisingly discovers that he is Spetsnaz deserter who didn't want to serve under general Guba any more, claiming that Guba is a rogue general pursuing his own agenda independently from the Soviet Union. Lukin then switches sides and joins the resistance, ending the mission by arresting the remaining commanders still loyal to Guba.
+
+Resistance, an expansion, featured updated graphics, sounds, and multiplayer mechanics. The storyline takes place three years before the events of the main storyline. The player takes on the role of an ex-Special Operations soldier, Victor Troska, who has returned to his homeland of Nogova after years in exile serving with British Special Forces. During the first introductory mission to the campaign, the island is invaded by the Soviet Union after some members of the socialist party betray the country and invite Soviet forces to overthrow the government. Troska is approached by Nogovans who are resisting the Soviet occupation and asked to join them. Initially, Troska refuses to have any part in the fighting and rebukes them because he wants to put the combat behind and also believes that any resistance will take many of the inexperienced soldiers' lives. Later, a wounded guerrilla-fighter being pursued by Soviet soldiers takes refuge in Troska's shed. When Soviet soldiers, led by Colonel Guba, arrive, Troska is forced to make a decision: betraying the partisan, trying to negotiate with the Soviets or fighting off the Soviet soldiers and joining the resistance.
+The first choice makes Viktor to join the Soviets who give him a task to locate the main resistance base and reveal its position to Soviets. After finding the base Victor is once again forced to decide whether he will betray the partisans or lead the Soviets to the false location to join the resistance anyway. If he chooses to betray them, the Soviets win and Victor is executed with the other partisans as a traitor who cannot be trusted because he betrayed his close friends.
+The second choice only makes the Soviets more angry and the negotiation is unsuccessful.
+The last choice forces Victor to grab the gun, kill the Soviets holding him and his friends at gunpoint and escape to join the resistance.
+When Victor joins the resistance he is immediately forced to take command and fight the Soviets who attack their base and kill the resistance commander. Then he leads his units to assault some Soviet bases to collect some weapons, ammunition and tanks as the resistance forces have only a limited supply of weapons. Besides the fighting this becomes a very important objective through all campaign. After some initial successful actions more people begin to join the resistance, making it stronger. Later the resistance receives some weapon supplies from the Americans who also send James Gastovski and his team in to assist the resistance. Victor is also helped by Tasmanian Devil, an informant of unknown identity who passes critical information to him via radio (he is later discovered by the Soviets and killed). The successful actions drive the Soviets back until they are pushed to the airfield where Guba holds his tactical bombers to be used to obliterate Nogova after the Soviet retreat. Victor manages to destroy the bombers but the Soviets encircle him and is MIA after that, presumably dead. The American forces sent by Colonel Blake wipe out the remaining Soviet forces but Guba escapes before the final defeat.
+Basic plot of Resistance is probably based on 1968 events in Czechoslovakia.
+
+
+Sequels
+A sequel, Operation Flashpoint: Dragon Rising was released by Codemasters in October 6, 2009. Independently, game developer Bohemia Interactive released its own spiritual sequel, ARMA: Armed Assault.
+
+
+References
+
+
+External links
+Official website

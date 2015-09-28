@@ -1,0 +1,77 @@
+MGM-13 Mace
+The Martin Mace (designated as TM-76 tactical missile until 1963, then as MGM-13 for mobile-launched and CGM-13 for container-launched versions) is a tactical cruise missile developed from the MGM-1 Matador. It was replaced by the MGM-31 Pershing missile by Robert McNamara, and later in its role as a cruise missile for West Germany, by the BGM-109G Ground Launched Cruise Missile.
+
+
+HistoryEdit
+Development began in 1954 as an improved version of the MGM-1 Matador. Like the Matador, the Mace was a tactical surface-launched missile designed to destroy ground targets. It was first designed as the TM-76 and later the MGM-13.
+Mace was launched from a transporter erector launcher or a hardened bunker using a solid rocket booster for initial acceleration and an Allison J33-A-41 turbojet for flight. The Goodyear Aircraft Corporation developed ATRAN (Automatic Terrain Recognition And Navigation, a radar map-matching system) in which the return from a radar scanning antenna was matched with a series of "maps" carried on board the missile which corrected the flight path if it deviated from the film map. In August 1952, Air Materiel Command initiated the mating of the Goodyear ATRAN with the MGM-1 Matador. This mating resulted in a production contract in June 1954. ATRAN was difficult to jam and was not range-limited by line-of sight, but its range was restricted by the availability of radar maps. In time, it became possible to construct radar maps from topographic maps.
+The Mace was first launched in 1956 and the missile could reach Mach 0.7 to 0.85 over a 540-mile range at low level (as low as 750 feet), and 1,285 miles at high altitude. Development of Mace "B" missiles began in 1964, with the "B" having a longer fuselage, shorter wings, and more weight than the "A". In addition, the "B" included a jam-proof inertial guidance system (designated TM-76B), with range exceeding 1,300 miles. To enhance mobility, Martin designed the Mace's wings to fold for transport (the Matador's wings were transported separately and then bolted on for flight).
+The USAF deployed the Mace in West Germany in 1959, and it served alongside the MGM-1 Matador before the latter phased out in 1962. Six missile squadrons served in Europe (38th Tactical Missile Wing) with just under 200 TM-61s and TM-76s. In South Korea, the 58th Tactical Missile Group became combat ready with 60 TM-61s in January 1959. It ceased operations in March 1962, only a few months after the 498th Tactical Missile Group in December 1961 took up positions in semi-hardened sites on Okinawa.
+Development of the "B" missiles began in 1964 and remained operational in Europe and the Pacific. The two squadrons of TM-76B/MGM- 13C continued on active duty in USAFE until December 1969. After being taken offline, some missiles were used as target drones because their size and performance resembled manned aircraft.
+
+
+VariantsEdit
+Mace A - equipped with ATRAN (Automatic Terrain Recognition And Navigation) terrain-matching radar navigation.
+Mace B - inertial navigation system, increased range.
+
+
+SurvivorsEdit
+
+Below is a list of museums which have a Mace missile in their collection:
+Air Force Space & Missile Museum, Cape Canaveral Air Force Station, Florida, TM-76B / CGM-13B, AF Ser. No. 60-0715, but restored and marked as AF Ser. No. 59-4871. Originally assigned to the U.S. Air Force Tactical Missile School, 4504th Missile Training Wing, Orlando Air Force Base, Florida.
+Air Force Armament Museum, Eglin Air Force Base, Florida, CGM-13, AF Ser. No. 59-4860
+Museum of Aviation, Robins Air Force Base, Georgia MGM-13A, AF Ser. No. 58-1465
+National Museum of the United States Air Force, Wright-Patterson Air Force Base, Dayton, Ohio. This Mace "B" was based on Okinawa prior to its delivery to the museum in 1971.
+Indiana Military Museum, Vincennes, Indiana CGM-13B, AF Ser. No. 59-4871. This Mace B was assigned to the 4504th Missile Training Wing, Orlando AFB, Florida.
+Belleview Park, Englewood, Colorado. Elevated outdoor display. AF Serial Number is unknown. Donated to the city by the Martin Company in the 1960s for use as playground equipment.
+White Sands Missile Range Museum, New Mexico
+Public display in Memorial Park, Flagler, Colorado, AF Ser. No. 58-1463.
+McDermott Post 452, American Legion, Mildred, Pennsylvania
+Static display at the entrance of Pydna missile base, Kastellaun, Germany.
+
+
+SpecificationsEdit
+General characteristics
+Length: 44 ft 6 in (13.6 m)
+Diameter: 4 ft 6 in (1.4 m)
+Launch mass: 18,000 lb (8,200 kg)
+Engine
+First stage: 1× Thiokol solid rocket booster
+Thrust: 100,000 lbf (445 kN)
+
+Second stage: 1× Allison J33-A-41 turbojet
+Thrust: 5,200 lbf (23 kN)
+
+Technical information
+Launch platform:MM1: transporter erector launcher
+CGM-13B: coffin
+
+Performance
+Cruise speed: 650 mph (570 kn, 1,000 km/h)
+Operating altitude: up to 40,000 ft (12,000 m)
+Range: 1,400 mi (1,200 nmi, 2,300 km)
+Warhead
+Warhead: Conventional or nuclear
+
+
+See alsoEdit
+
+Related development
+MGM-1 Matador
+Related lists
+List of military aircraft of the United States
+List of missiles
+
+
+ReferencesEdit
+Mindling, George, and Bolton, Robert, 'U.S. Air Force Tactical Missiles 1949–1969 The Pioneers', 2008, Lulu Press
+
+
+External linksEdit
+Directory of U.S. Military Rockets and Missiles
+Part One - The Development of the Matador and Mace Missiles
+Part Two - History of the Matador and Mace Missiles
+Part Three - Matador and Mace Missile Guidance and Flight Controls
+The FWD MM-1 Teracruzer
+Sembach Missileers - 38th TAC Missile Wing Missileers stationed at Sembach AB, Germany, 1959-1966
+TAC Missileers - Tactical Missile Warriors of the Cold War

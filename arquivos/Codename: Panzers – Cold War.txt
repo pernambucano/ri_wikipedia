@@ -1,0 +1,117 @@
+Codename: Panzers – Cold War
+Codename: Panzers – Cold War is a real-time strategy video game developed by InnoGlow and published by Atari. A sequel to Codename: Panzers, it was previously developed by Stormregion software, to be published by 10tacle, before both companies went bankrupt in 2008.
+
+
+Story
+The storyline starts in 1949, and follows an alternate history, with the timeline diverging into a war between the Soviets and the West. Following the defeat of the Nazis, Germany has been partitioned into Soviet and Allied zones of control, with the Soviets building up their military presence in readiness for a new war. During the Berlin airlift, a Soviet fighter collides with a US cargo plane, USSR 5 and 6 Division attack West Germany, and the next day Berlin becomes a savage battlefield between the two Superpowers. In the single player campaign, players play on the NATO side of the conflict, occasionally swithcing sides to help the Soviets. The storyline is said to involve characters from the two previous Codename: Panzers titles.
+
+
+Gameplay
+Codename: Panzers Cold War is a real-time strategy similar to previous Codename: Panzers games, except that it is set in the first days of the Cold War and features a brand new graphics engine. The game has futuristic elements, with some of the technology present in the game surpassing that which was available at the time of the Berlin airlift. The game features powerful squad leaders and upgradeable units, buildings that can be destroyed or occupied to gain an advantage, a detailed physics engine and weather system.
+The single player component of the game is a campaign with 18 missions, while the title also ships with over 20 multiplayer maps. Co-operative play is supported, along with team deathmatch and a "domination" mode. The game will also feature famous war machines like the famous Soviet Mi-6 which is known as the world's biggest helicopter, the first jet MiG fighter MiG-15 and its United States counterpart F-86 Sabre, a few famous tanks for that time like the T-62, IS-10, T-54/55, M48 Patton, M-26 Pershing and other armored units.
+The gameplay of Codename: Panzers Cold War shares several features with previous iterations of the franchise. Units will require a constant stream of munitions to function, and the interface will be familiar to players of the previous titles in the series.
+
+
+Reception
+Codename: Panzers – Cold War currently holds a Metascore of 67% (composed of 28 single ratings) on the critic review aggregator Metacritic.
+
+
+Vehicles
+
+
+NATO
+Light Tank
+M41 Walker Bulldog - Light Tank
+
+Medium Tank
+ARL 44 - Medium Tank (Campaign Only)
+M-26 Pershing - Medium Tank (Campaign Only)
+M48 Patton - Medium Tank
+
+Heavy Tank
+Cruiser A41 Centurion I - Heavy Tank (Campaign Only)
+M103 - Heavy Tank
+PzKpfw VI Ausf.E "Tiger I" - Heavy Tank (Campaign Only)
+
+Super Heavy Tank
+PzKpfw VIII "Maus" - Super Heavy Tank (Campaign Only)
+
+Armored Vehicles
+Dodge WC-53 - Armored Car
+M59 - Armored Personnel Carrier
+
+Trucks
+Bedford QL - Truck (Cutscene Only)
+Studebaker US6 - Truck (Campaign Only)
+
+Cars
+Jeep Willys MB - Recon Car (Campaign Only)
+
+Aircraft
+Grumman HU-16 Albatross - Seaplane (Campaign Only - Non Playable)
+North American F-86 Sabre - Jet Fighter (Strike & Napalm Strike)
+
+Helicopters
+Bell 201/XH-13F - Recon Helicopter
+Sikorsky CH-37 Mojave - Infantry Transport Helicopter
+Sikorsky CH-54 Tarhe - Vehicle Transport Helicopter
+Sikorsky H-34 Choctaw - Paratroops & Supply Helicopter
+
+Artillery
+M50 Ontos - Self-Propelled Anti-Tank Artillery (Campaign Only)
+M53 Long-Tom 155mm - Self-Propelled Artillery
+Maxson M55 Quad Gun Trailer - Anti-Aircraft Artillery (Campaign Only)
+
+
+Soviet
+Light Tank
+T-70 - Light Tank
+
+Medium Tank
+Product 416 - Medium Tank
+T-54 - Medium Tank (Campaign Only)
+T-62 - Medium Tank
+
+Heavy Tank
+IS-10 - Heavy Tank
+
+Super Heavy Tank
+Obyekt 279 "Troyanov" - Super Heavy Tank (Campaign Only)
+
+Armored Vehicles
+BTR-40 - Armored Personnel Carrier
+
+Trucks
+Ural-375D - Truck (Campaign Only)
+
+Cars
+GAZ-69 - Recon Car (Campaign Only)
+
+Aircraft
+Antonov An-12 - Transport Plane (Cutscene & Campaign Only - Non Playable)
+Mikoyan-Gurevich MiG-15 - Jet Fighter (Cutscene & Campaign Only - Non Playable)
+Tupolev Tu-95 - Heavy Bomber (Campaign Only - Non Playable)
+
+Helicopters
+Kamov Ka-15 - Recon Helicopter
+Kamov Ka-25 - Strike Helicopter
+Mil Mi-4 - Paratroops & Jamming Helicopter
+Mil Mi-6 - Infantry transport Helicopter
+Mil Mi-10 - Vehicle transport Helicopter
+
+Artillery
+B-4 Howitzer 203mm - Heavy Artillery (Campaign Only)
+D-1 Howitzer 152mm - Heavy Artillery (Artillery Strike & Campaign Only for the Manned Version)
+FlaK 18 - Anti-Aircraft Artillery (Campaign Only)
+Katyusha (BM-14 on Studebaker US6) - Self-Propelled Artillery
+ISU-152 - Self-propelled Artillery (Campaign Only)
+Skoda ST-I - Self-Propelled Anti-Tank Artillery (Campaign Only)
+ZU-23 - Anti-Aircraft Artillery (Campaign Only)
+
+
+References
+
+
+External links
+Official website
+Codename Panzers: Cold War at IGN
