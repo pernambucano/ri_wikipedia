@@ -46,6 +46,7 @@ public class Indexer {
 	public final static int VERSION1  = 0; // only stopword
 	public final static int VERSION2  = 1; // stopwords and stemming
 	public final static int VERSION3  = 2; // only stemming
+	public final static int VERSION4  = 3; // without both
 	static int whichVersion;
 	
 	
@@ -87,6 +88,16 @@ public class Indexer {
 				}
 			};
 			
+			Analyzer mAnalyzerWoStopWoStem = new Analyzer() { // do nothing
+
+				@Override
+				protected TokenStreamComponents createComponents(String arg0) {
+					final Tokenizer source = new LowerCaseTokenizer();
+					return new TokenStreamComponents(source);
+				}
+				
+			};
+			
 			IndexWriterConfig iwc;
 			Directory dir;
 			
@@ -98,11 +109,14 @@ public class Indexer {
 				dir = FSDirectory.open(Paths.get(indexPath + VERSION2));
 				iwc = new IndexWriterConfig(analyzerStopStem);
 			} 
-			else {
+			else if (whichVersion == VERSION3){
 				dir = FSDirectory.open(Paths.get(indexPath + VERSION3));
 				iwc = new IndexWriterConfig(mAnalyzer);
 			}
-			
+			else {
+				dir = FSDirectory.open(Paths.get(indexPath + VERSION4));
+				iwc = new IndexWriterConfig(mAnalyzer);
+			}
 			
 			
 			if (create)
