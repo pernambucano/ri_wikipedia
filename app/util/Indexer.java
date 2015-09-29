@@ -14,7 +14,16 @@ import java.nio.file.attribute.BasicFileAttributes;
 import java.util.Date;
 
 import org.apache.lucene.analysis.Analyzer;
+import org.apache.lucene.analysis.TokenStream;
+import org.apache.lucene.analysis.Tokenizer;
+import org.apache.lucene.analysis.Analyzer.TokenStreamComponents;
+import org.apache.lucene.analysis.core.LowerCaseFilter;
+import org.apache.lucene.analysis.core.LowerCaseTokenizer;
+import org.apache.lucene.analysis.en.EnglishAnalyzer;
+import org.apache.lucene.analysis.en.PorterStemFilter;
 import org.apache.lucene.analysis.standard.StandardAnalyzer;
+import org.apache.lucene.analysis.standard.StandardFilter;
+import org.apache.lucene.analysis.standard.StandardTokenizer;
 import org.apache.lucene.document.Document;
 import org.apache.lucene.document.Field;
 import org.apache.lucene.document.LongField;
@@ -34,12 +43,19 @@ public class Indexer {
 	static String indexPath;
 	static String docsPath;
 	static boolean create;
+	public final static int VERSION1  = 0; // only stopword
+	public final static int VERSION2  = 1; // stopwords and stemming
+	public final static int VERSION3  = 2; // only stemming
+	static int whichVersion;
 	
-	public Indexer()
+	
+	public Indexer(int v)
 	{
 		indexPath = "index";
 		docsPath = "arquivos";
 		create = true;
+		whichVersion = v;
+		
 	}
 	
 	public static void indexFiles()
@@ -59,9 +75,35 @@ public class Indexer {
 		try {
 			System.out.println("Indexing to directory " + indexPath + " ..");
 			
-			Directory dir = FSDirectory.open(Paths.get(indexPath));
-			Analyzer analyzer = new StandardAnalyzer();
-			IndexWriterConfig iwc = new IndexWriterConfig(analyzer);
+			
+			Analyzer analyzer = new StandardAnalyzer(); // uses stopword filter
+			Analyzer analyzerStopStem = new EnglishAnalyzer(); // stopwords and stemming
+			
+			Analyzer mAnalyzer = new Analyzer() { // only stemming
+				@Override
+				protected TokenStreamComponents createComponents(String arg0) {
+					final Tokenizer source = new LowerCaseTokenizer();
+					return new TokenStreamComponents(source, new PorterStemFilter(source));
+				}
+			};
+			
+			IndexWriterConfig iwc;
+			Directory dir;
+			
+			if (whichVersion == VERSION1 ) {
+				dir = FSDirectory.open(Paths.get(indexPath + VERSION1));
+				iwc = new IndexWriterConfig(analyzer);
+			}
+			else if (whichVersion == VERSION2) {
+				dir = FSDirectory.open(Paths.get(indexPath + VERSION2));
+				iwc = new IndexWriterConfig(analyzerStopStem);
+			} 
+			else {
+				dir = FSDirectory.open(Paths.get(indexPath + VERSION3));
+				iwc = new IndexWriterConfig(mAnalyzer);
+			}
+			
+			
 			
 			if (create)
 			{

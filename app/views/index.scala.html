@@ -1,7 +1,16 @@
-@(message: String)
+@(results: ArrayList[String])
 
-@main("Welcome to Play") {
-
-    @play20.welcome(message, style = "Java")
-
+@main("Wikipedia Search") {
+	<table class="table table-striped">
+		<thead>
+			<tr>
+				<th>Name</th>
+			</tr>
+		</thead>
+		<tbody>
+			@for(result <- results){
+				<tr>
+					<td><a href="#">@result</a></td></tr>}
+		</tbody>
+	</table>
 }

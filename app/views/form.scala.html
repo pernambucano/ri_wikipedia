@@ -1,0 +1,13 @@
+@(queryForm: Form[Query])
+
+@main("query form") {
+	<h1>Query</h1>	
+	@helper.form(action = routes.Application.handleQuery()) {
+	<fieldset>
+	<legend>query</legend>
+	@helper.inputText(queryForm("queryStr"),'_label -> "Query")
+	</fieldset>
+	<input type="submit" class="btn btn-primary" value="Save">
+	<a class="btn" href="@routes.Application.query()">Cancel</a>
+	}
+}

@@ -1,13 +1,13 @@
-New log file opened at Sun Sep 27 22:47:30 BRT 2015 by 2021@I.local
-Taking next connection to: 51510
-New client attempting to connect on port: 51511-51510
-  Address = /192.168.0.103:51510
-This client on port 51511 has uuid c5b246b8-c241-48d3-8278-3a5c3943825d configName activator humanReadableName Activator protocolVersion 3 featureTags Vector()
-Connected Clients: activator-c5b246b8-c241-48d3-8278-3a5c3943825d
-Taking next connection to: 51510
-New client attempting to connect on port: 51512-51510
-  Address = /192.168.0.103:51510
-Handshake exception on socket: 51512
+New log file opened at Tue Sep 29 12:16:55 BRT 2015 by 493@I
+Taking next connection to: 49214
+New client attempting to connect on port: 49215-49214
+  Address = /192.168.25.52:49214
+This client on port 49215 has uuid 63782747-cc8a-499f-b2bc-3de868793c30 configName activator humanReadableName Activator protocolVersion 3 featureTags Vector()
+Connected Clients: activator-63782747-cc8a-499f-b2bc-3de868793c30
+Taking next connection to: 49214
+New client attempting to connect on port: 49216-49214
+  Address = /192.168.25.52:49214
+Handshake exception on socket: 49216
 sbt.impl.ipc.HandshakeException: Unable to perform handshake
 	at sbt.impl.ipc.Peer.handshake(IPC.scala:46)
 	at sbt.impl.ipc.MultiClientServer.<init>(IPC.scala:150)
@@ -17,15 +17,18 @@ Caused by: java.io.EOFException
 	at sbt.impl.ipc.Peer.receive(IPC.scala:95)
 	at sbt.impl.ipc.Peer.handshake(IPC.scala:49)
 	... 2 more
-Taking next connection to: 51510
-New client attempting to connect on port: 51513-51510
-  Address = /192.168.0.103:51510
-This client on port 51513 has uuid 484e1702-250b-47ec-bad4-e3bbdb5ddb49 configName activator humanReadableName Activator protocolVersion 3 featureTags Vector()
-Connected Clients: activator-c5b246b8-c241-48d3-8278-3a5c3943825d, activator-484e1702-250b-47ec-bad4-e3bbdb5ddb49
-Taking next connection to: 51510
-New client attempting to connect on port: 51514-51510
-  Address = /192.168.0.103:51510
-Handshake exception on socket: 51514
+Taking next connection to: 49214
+New client attempting to connect on port: 49217-49214
+  Address = /192.168.25.52:49214
+This client on port 49217 has uuid aa6f4eef-ef49-4269-90ef-77fa6fc22438 configName activator humanReadableName Activator protocolVersion 3 featureTags Vector()
+Connected Clients: activator-63782747-cc8a-499f-b2bc-3de868793c30, activator-aa6f4eef-ef49-4269-90ef-77fa6fc22438
+Taking next connection to: 49214
+Checking to see if clients are empty...
+We have 1 non-daemon clients, continuing serving connections.
+Taking next connection to: 49214
+New client attempting to connect on port: 49253-49214
+  Address = /192.168.25.52:49214
+Handshake exception on socket: 49253
 sbt.impl.ipc.HandshakeException: Unable to perform handshake
 	at sbt.impl.ipc.Peer.handshake(IPC.scala:46)
 	at sbt.impl.ipc.MultiClientServer.<init>(IPC.scala:150)
@@ -35,9 +38,12 @@ Caused by: java.io.EOFException
 	at sbt.impl.ipc.Peer.receive(IPC.scala:95)
 	at sbt.impl.ipc.Peer.handshake(IPC.scala:49)
 	... 2 more
-Taking next connection to: 51510
-New client attempting to connect on port: 51515-51510
-  Address = /192.168.0.103:51510
-This client on port 51515 has uuid 17485b87-031e-4b74-9130-f217cbe18ec7 configName play-fork-run humanReadableName Play Fork Run protocolVersion 1 featureTags Vector()
-Connected Clients: activator-c5b246b8-c241-48d3-8278-3a5c3943825d, activator-484e1702-250b-47ec-bad4-e3bbdb5ddb49, play-fork-run-17485b87-031e-4b74-9130-f217cbe18ec7
-Taking next connection to: 51510
+Taking next connection to: 49214
+New client attempting to connect on port: 49254-49214
+  Address = /192.168.25.52:49214
+This client on port 49254 has uuid e9f69852-7d54-496a-b4c2-a9b2036bfca3 configName play-fork-run humanReadableName Play Fork Run protocolVersion 1 featureTags Vector()
+Connected Clients: activator-aa6f4eef-ef49-4269-90ef-77fa6fc22438, play-fork-run-e9f69852-7d54-496a-b4c2-a9b2036bfca3
+Taking next connection to: 49214
+Checking to see if clients are empty...
+We have 1 non-daemon clients, continuing serving connections.
+Taking next connection to: 49214

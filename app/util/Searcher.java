@@ -1,5 +1,6 @@
 package util;
 
+import java.awt.List;
 import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
@@ -7,6 +8,7 @@ import java.nio.charset.StandardCharsets;
 import java.nio.file.Files;
 
 import java.nio.file.Paths;
+import java.util.ArrayList;
 import java.util.Date;
 
 import org.apache.lucene.analysis.Analyzer;
@@ -26,7 +28,7 @@ public class Searcher {
 	static String queryStr; 
 	public Searcher(String query){this.queryStr = query;}
 	
-	public String[]  SearchFiles() throws IOException, ParseException {
+	public ArrayList<String>  SearchFiles() throws IOException, ParseException {
 		String index = "index";
 		String field = "contents";
 		String queries = null;
@@ -59,12 +61,12 @@ public class Searcher {
 		
 		TopDocs results = searcher.search(query, 10);
 		ScoreDoc[] hits = results.scoreDocs;
-		String[] s_hits = new String[hits.length];
+		ArrayList<String> s_hits = new ArrayList<String>();
 		for (int i = 0; i < hits.length; i++) {
 			Document doc = searcher.doc(hits[i].doc);
 			String path = doc.get("path");
 			if(path != null) {
-				s_hits[i] = path;
+				s_hits.add(path);
 			}
 		}
 		
