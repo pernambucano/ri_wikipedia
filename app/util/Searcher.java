@@ -26,10 +26,11 @@ import org.apache.lucene.store.FSDirectory;
 
 public class Searcher {
 	static String queryStr; 
-	public Searcher(String query){this.queryStr = query;}
+	int version;
+	public Searcher(String query, int version){this.queryStr = query; this.version = version;}
 	
 	public ArrayList<String>  SearchFiles() throws IOException, ParseException {
-		String index = "index";
+		String index = "index" + version;
 		String field = "contents";
 		String queries = null;
 		int repeat = 0;

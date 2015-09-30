@@ -1,4 +1,4 @@
-@(queryForm: Form[Query])
+@(opcoes: java.util.List[String], queryForm: Form[Query])
 
 @main("query form") {
 	<h1>Query</h1>	
@@ -6,6 +6,16 @@
 	<fieldset>
 	<legend>query</legend>
 	@helper.inputText(queryForm("queryStr"),'_label -> "Query")
+	
+	@for((o, index) <- opcoes.zipWithIndex) {
+	<label>
+	<input type="checkbox" name="opcoes[@index]" value="@o">
+	@o
+	</label>
+	}
+	
+	
+	
 	</fieldset>
 	<input type="submit" class="btn btn-primary" value="Save">
 	<a class="btn" href="@routes.Application.query()">Cancel</a>

@@ -5,7 +5,7 @@
 # Home page
 GET		/								 controllers.Application.query()
 GET     /index                           controllers.Application.index()
-GET		/search/						 controllers.Application.search(query)
+GET		/search/						 controllers.Application.search(query, ck1, ck2)
 GET		/list 							 controllers.Application.handleQuery()
 
 
